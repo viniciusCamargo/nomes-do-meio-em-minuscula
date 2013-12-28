@@ -1,7 +1,7 @@
 nomes-do-meio-em-minuscula
 ==========================
 
-/*Função (PHP) que deixa o nome completo com as iniciais em caixa alta, com exceção dos "nomes do meio", como: da, de, do, das, dos...*/
+##Função (PHP) que deixa o nome completo com as iniciais em caixa alta, com exceção dos "nomes do meio", como: da, de, do, das, dos...
 
 <?php
 function nomesDoMeio($nome) {
